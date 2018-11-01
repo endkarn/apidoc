@@ -1,6 +1,8 @@
 
 
 # Customer Management Service API 
+** All Services in Single Link **
+https://documenter.getpostman.com/view/5743697/RzZ4o1jE
 
 | Postman Doc                                               | Service Name        | ชื่อของเซอวิส             | ผู้จัดทำ             | 
 |-----------------------------------------------------------|---------------------|---------------------------|---------------------------| 

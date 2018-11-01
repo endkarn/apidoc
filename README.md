@@ -11,6 +11,10 @@ https://documenter.getpostman.com/view/5743697/RzZ4o1jE
 | https://documenter.getpostman.com/view/5743697/RzZ3M2j9   | Publicity Channel   | ช่องทางการประชาสัมพันธ์   | กาน |
 | https://documenter.getpostman.com/view/5743697/RzZ3M2jB | Snack And Drinks | ขนมขบเคี้ยวและเครื่องดื่ม | กาน |
 
+---
+
+
+
 
 
 # Inventory Control Service API 
@@ -24,7 +28,13 @@ https://documenter.getpostman.com/view/5743697/RzZ4o1om
 | https://documenter.getpostman.com/view/5743697/RzZ3M2jG | Inventory | ระบบคลังสินค้า | พี่อาร์ม |
 | https://documenter.getpostman.com/view/5743697/RzZ3M2jH | Product Brand | ยี่ห้อผลิตภัณฑ์ | พี่อาร์ม |
 
+---
+
+
+
 # Service Package Management Service API 
+**All Services in Single Link**
+https://documenter.getpostman.com/view/5743697/RzZ4oLbq
 
 | Postman Doc                                               | Service Name        | ชื่อของเซอวิส             |  ผู้จัดทำ             | 
 |-----------------------------------------------------------|---------------------|---------------------------|---------------------------| 

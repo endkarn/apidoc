@@ -1,4 +1,4 @@
-
+# *อัพเดทจะอยู่ใน Single Link ทั้งหมดแล้ sublink ย่อยจะถูกลบในวันที่ 9-11-2018
 
 # Customer Management Service API 
 **All Services in Single Link**
